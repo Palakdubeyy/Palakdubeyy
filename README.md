@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Palakdubeyy
-- 👀 I’m interested in web development and machine learning.
-- 🌱 I’m currently learning Data structures and algorithms
+-     Branch-Artificial intelligence and data science
+-     I’m interested in web development and machine learning.
+-     I’m currently learning Data structures and algorithms
 
 
 <!---
